@@ -1,0 +1,16 @@
+#!/usr/bin/python3
+
+print("█████████")
+print("█▄█████▄█    ●▬▬▬▬▬▬▬▬▬๑۩۩๑▬▬▬▬▬▬▬▬●")
+print("█  ▼▼▼▼▼-_--_--╔╦╗┌─┐┬─┐┬┌─   ╔═╗╔╗")
+print("█   _-_-- -_    ║║├─┤├┬┘├┴┐───╠╣ ╠╩╗")
+print("█  ▲▲▲▲▲--_--_-═╩╝┴ ┴┴└─┴ ┴   ╚  ╚═╝")
+print("█████████    «----------✧----------»")
+print("╔════════════════════════════════════════╗")
+print("║Author : @_abi007_                      ║")
+print("║Support: @dramdhn28_                    ║")                  
+print("║GitHub : https://github.com/FryBanshe139║")
+print("╚════════════════════════════════════════╝")
+print("[1.] BruteForce Facebook Password")
+print("[2.] Lihat Informasi Username")
+print("[3.] Phising Web Facebook")
